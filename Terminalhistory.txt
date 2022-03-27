@@ -1,0 +1,50 @@
+  416  pwd
+  417  cd desktop/Challenge_Folder/Module5Challenge/
+  418  ls
+  419  cd Starter_Code/
+  420  git status
+  421  git add .
+  422  cd ~
+  423  pwd
+  424  cd desktop/Challenge_Folder/Module5Challenge/
+  425  ls
+  426  cd Starter_Code/
+  427  git add.
+  428  git add .
+  429  git status
+  430  pwd
+  431  cd ~
+  432  cd desktop/Challenge_Folder/module5
+  433  cd desktop/Challenge_Folder/Module5Challenge/
+  434  git status
+  435  pwd
+  436  pip3 install panel
+  437  conda activate dev
+  438  pip3 install panel
+  439  pip3 install hvplot
+  440  conda activate dev
+  441  pip3 install hvplot
+  442  conda activate dev
+  443  pip3 install plotly
+  444  conda deactivate
+  445  pip3 install plotly
+  446  cd desktop/Challenge_Folder/
+  447  mkdir Module_5_Challenge
+  448  ls
+  449  cd Module_5_Challenge/
+  450  git clone https://github.com/Ahmedfadiya/Module_5_Challenge.git
+  451  git status
+  452  cd Module_5_Challenge/
+  453  git status
+  454  git add .
+  455  git status
+  456  git commit -m "Starter Code file added"
+  457  git push
+  458  git status
+  459  git status
+  460  git add .
+  461  git status
+  462  git commit -m "Assignment completed and submitting"
+  463  git push
+  464  history
+  465  history 50 > Terminalhistory.txt
